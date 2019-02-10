@@ -1,0 +1,3 @@
+# Exercise 14 from Learn Python the Hard Way 2018-7-25
+
+from sys import argv
